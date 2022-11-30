@@ -6,7 +6,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'home': "url('./assets/images/career-banner-4.jpg')"
+        'home': "url('./assets/images/career-banner-4.jpg')",
+        'responsibility': "url('./assets/images/Our Resposibility Thumbnail 1.jpg')",
+        'report': "url('./assets/images/Latest Annual Report 3.png')"
       }
     },
   },
